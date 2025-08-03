@@ -1,0 +1,134 @@
+[
+  {
+    "Brand": "VAGSTRANDA",
+    "name": "Pocket spring mattress, medium firm/white, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/%20Miedium-firm.avif",
+    "ListPrice": 499.99,
+    "FinalPrice": 299.99,
+    "size": "queen",
+    "firmness": "Medium firm",
+    "stockQuantity": 10,
+    "description": "A medium-firm 11 in high innovative double layer pocket spring mattress. You get ultimate comfort and perfect support from comfort zones that adjust to your body. A generous layer of foam adds to the feel!"
+  },
+  {
+    "Brand": "ANNELAND",
+    "name": "Hybrid mattress, firm/white, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/firm.avif",
+    "ListPrice": 499.99,
+    "FinalPrice": 299.99,
+    "size": "queen",
+    "firmness": "Firm",
+    "stockQuantity": 10,
+    "description": "A medium-firm 11 in high innovative double layer pocket spring mattress. You get ultimate comfort and perfect support from comfort zones that adjust to your body. A generous layer of foam adds to the feel!"
+  },
+  {
+    "Brand": "VINGELEN",
+    "name": "Eurotop hybrid mattress, plush/white, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/plush.avif",
+    "ListPrice": 699.99,
+    "FinalPrice": 499.99,
+    "size": "queen",
+    "firmness": "Plush",
+    "stockQuantity": 10,
+    "description": "A 12⅝ high mattress with a double layer of innovative pocket springs and an integrated topper with an upper layer of plush foam. Wonderful comfort and support from comfort zones that adjust to your body."
+  },
+  {
+    "Brand": "RAMNEFALL",
+    "name": "Upholstered bed frame, Kilanda light beige/Luröy, King",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/King-beige.avif",
+    "ListPrice": 267.99,
+    "FinalPrice": 199.99,
+    "size": "King",
+    "color": "beige",
+    "stockQuantity": 10,
+    "description": "This upholstered bed frame makes your bedroom feel soft and warm. The curved headboard and piped edges create a classic look – and the entire cover is removable and machine washable."
+  },
+  {
+    "Brand": "NORDLI",
+    "name": "Bed with headboard and storage, anthracite, King",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/king-black.avif",
+    "ListPrice": 699,
+    "FinalPrice": 599,
+    "size": "King",
+    "color": "black",
+    "stockQuantity": 10,
+    "description": "There’s plenty of space in the drawers for clothes, extra duvets and sweet dreams – and you can position the headboard’s box and shelf so your favorite book is easy to reach. A perfect combination!"
+  },
+  {
+    "Brand": "BRIMNES",
+    "name": "Bed frame with storage & headboard, white/Luröy, King",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/king-white-1.avif",
+    "ListPrice": 450,
+    "FinalPrice": 350,
+    "size": "King",
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "A bed frame with hidden storage in several places – perfect if you live in a small space. The BRIMNES series has several smart solutions that help you save space."
+  },
+  {
+    "Brand": "HEMNES",
+    "name": "Bed frame, white stain/Luröy, King",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/king-white-2.avif",
+    "ListPrice": 379,
+    "FinalPrice": 350,
+    "size": "King",
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "Sustainable beauty from sustainably-sourced solid wood, a durable and renewable material that maintains its genuine character with each passing year. Combines with the other furniture in the HEMNES series."
+  },
+  {
+    "Brand": "KLEPPSTAD",
+    "name": "Bed frame, white/Vissle beige, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/queen-beige-1.avif",
+    "ListPrice": 199,
+    "FinalPrice": 120,
+    "size": "Queen",
+    "color": "beige",
+    "stockQuantity": 10,
+    "description": "KLEPPSTAD has a stylish and modern design with a metal bed frame and a cozy textile headboard. Easy to both buy and take home since it’s sold as two compact packages. So practical and convenient!"
+  },
+   {
+    "Brand": "IDANAS",
+    "name": "Upholstered bed frame, Naggen beige, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/queen-beige-2.avif",
+    "ListPrice":499,
+    "FinalPrice": 399,
+    "size": "Queen",
+    "color": "beige",
+    "stockQuantity": 10,
+    "description": "The sloping headboard and soft upholstery make IDANÄS upholstered bed frame extra comfortable. Wake up with coffee and a morning paper! Classic button detailing and turned wooden legs are timeless."
+   },
+   {
+    "Brand": "SONGESAND",
+    "name": "Bed frame with 4 storage boxes, brown/Luröy, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/queen-brown-1.avif",
+    "ListPrice":499,
+    "FinalPrice": 399,
+    "size": "Queen",
+    "color": "brown",
+    "stockQuantity": 10,
+    "description": "A sturdy bed frame with soft, profile edges and high legs. A classic shape that will last for many years. Also, there are spacious storage boxes under the bed where you can store bedding or clothes."
+   },
+   {
+    "Brand": "IDANAS",
+    "name": "Upholstered storage bed, Gunnared dark gray, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/queen-grey-3.avif",
+    "ListPrice":899,
+    "FinalPrice": 799,
+    "size": "Queen",
+    "color": "grey",
+    "stockQuantity": 10,
+    "description": "The sloping headboard and soft upholstery make this bed frame extra comfortable. Classic button detailing and turned wooden legs are timeless, while soft-closing drawers under the bed add everyday storage."
+   },
+   {
+    "Brand": "IDANAS",
+    "name": "Bed frame with storage, white/Luröy, Queen",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Beds%26Mattresses/queen-white-3.avif",
+    "ListPrice":300,
+    "FinalPrice": 249,
+    "size": "Queen",
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "When you live in a small space you need to be clever. That’s probably why you’re looking at this bed frame with 4 spacious drawers. The BRIMNES series has several heroes that help you save space."
+   }
+]

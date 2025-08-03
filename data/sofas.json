@@ -1,0 +1,112 @@
+[
+  {
+    "Brand": "KIVIK",
+    "name": "sectional, 4-seat with chaise, beige",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/beige-fabric-1.avif",
+    "ListPrice": 1499.99,
+    "FinalPrice": 1299.99,
+    "color": "beige",
+    "material": "fabric",
+    "stockQuantity": 10,
+    "description": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation."
+  },
+  {
+    "Brand": "KIVIK",
+    "name": "sofa with chaise, black",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/black-fabric.avif",
+    "ListPrice": 999.99,
+    "FinalPrice": 899.99,
+    "color": "black",
+    "material": "fabric",
+    "stockQuantity": 8,
+    "description": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation."
+  },
+  {
+    "Brand": "KIVIK",
+    "name": "sectional, 4-seat with chaise, black",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/black-leather.avif",
+    "ListPrice": 1699.99,
+    "FinalPrice": 1599.99,
+    "color": "black",
+    "material": "leather",
+    "stockQuantity": 11,
+    "description": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation."
+  },
+  {
+    "Brand": "APPLARYD",
+    "name": "sectional, 4-seat with chaise, blue",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/blue-velvet.avif",
+    "ListPrice": 1699.99,
+    "FinalPrice": 1599.99,
+    "color": "blue",
+    "material": "velvet",
+    "stockQuantity": 11,
+    "description": "ÄPPLARYD sofa will be your home’s comfy oasis. An eye-catcher that reflects your personality and style. Great to sit, lie down and hang out on. And with lots of space for the whole family, year after year."
+  },
+  {
+    "Brand": "FRIHETEN",
+    "name": "Sleeper sectional,3 seat w/storage, Faringe light gray",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/brown-fabric.avif",
+    "ListPrice": 899.99,
+    "FinalPrice": 699.99,
+    "color": "grey",
+    "material": "fabric",
+    "stockQuantity": 9,
+    "description": "Relaxing bed at night and comfy sofa during the day – with built-in storage space under the seat. The included mattress pad is rolled out at bedtime and rolled up into a long back cushion in the morning."
+  },
+  {
+    "Brand": "STOCKHOLM",
+    "name": "Sofa, Seglora natural",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/brown-leather-2.avif",
+    "ListPrice": 2249.99,
+    "FinalPrice": 2049.99,
+    "color": "brown",
+    "material": "leather",
+    "stockQuantity": 9,
+    "description": "This sofa has a stylish design, with an aniline leather that only gets more beautiful over the years. The cover´s natural expression makes each sofa unique – and the cushion filling offers comfy support."
+  },
+  {
+    "Brand": "VISKAFORS",
+    "name": "Loveseat, Högalid brown/brown",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/brown-leather-3.avif",
+    "ListPrice": 1499.99,
+    "FinalPrice": 1049.99,
+    "color": "brown",
+    "material": "leather",
+    "stockQuantity": 9,
+    "description": "VISKAFORS is a sofa that becomes a statement piece in the room. The classic design has generous, inviting shapes – and when you sink into the deep soft seat, the sofa gives you an embracing feel."
+  },
+  {
+    "Brand": "FINNALA",
+    "name": "Sofa, with chaise/Grann/Bomstad golden brown",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/brown-leather.avif",
+    "ListPrice": 2299.99,
+    "FinalPrice": 2049.99,
+    "color": "brown",
+    "material": "leather",
+    "stockQuantity": 9,
+    "description": "FINNALA sectional sofa can grow and change with a home and the family. Choose how many seats, the look and function to create a sofa that suits you. A clean design and long-lasting comfort are included."
+  },
+  {
+    "Brand": "KIVIK",
+    "name": "Sectional 6-seat crn/chaise, Gunnared light brown-pink",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/pink-fabric-2.avif",
+    "ListPrice": 1799,
+    "FinalPrice": 1599,
+    "color": "pink",
+    "material": "fabric",
+    "stockQuantity": 9,
+    "description": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation."
+  },
+  {
+    "Brand": "APPLARYD",
+    "name": "Sofa, Djuparp red-brown",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Sofas/red-velvet.avif",
+    "ListPrice": 1799,
+    "FinalPrice": 1599,
+    "color": "red",
+    "material": "velvet",
+    "stockQuantity": 9,
+    "description": "ÄPPLARYD sofa will be your home’s comfy oasis. An eye-catcher that reflects your personality and style. Great to sit, lie down and hang out on. And with lots of space for the whole family, year after year."
+  }
+]

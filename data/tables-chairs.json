@@ -1,0 +1,62 @@
+[
+  {
+    "Brand": "NASINGE",
+    "name": "Table and 4 chairs, dark brown stained beech veneer/dark brown stained Kilanda light beige, 51 1/8x31 1/2 ",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Tables%26Chairs/409.avif",
+    "ListPrice": 499.99,
+    "FinalPrice": 409.99,
+    "color": "brown",
+    "stockQuantity": 10,
+    "description": "Recommended for indoor use only. Seats 4. Removable, washable cove. A screwdriver is required to assemble this product, sold separately as a part of TRIXIG 15-piece toolset."
+  },
+  {
+    "Brand": "INGATOR",
+    "name": "Table, white/white, 43",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Tables%26Chairs/499.avif",
+    "ListPrice": 599.99,
+    "FinalPrice": 499.99,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "The self-storing leaf is easy to insert to extend the table from 4 to 6 and just as easy to remove and tuck away under the table top when your guests have gone home. Legs and underframe are made of sturdy, solid hardwood. The clear-lacquered surface is easy to wipe clean. You sit comfortably thanks to the high back."
+  },
+  {
+    "Brand": "SKANSNAS",
+    "name": "Table and 4 chairs, with armrest brown/turquoise, 45 1/4/66 7/8",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Tables%26Chairs/1079.avif",
+    "ListPrice": 1199.99,
+    "FinalPrice": 1079.99,
+    "color": "turquoise",
+    "stockQuantity": 10,
+    "description": "4-seat dining set with modern flair including brown-stained wooden table that extends to seat 6, and chairs with molded seat shell with flexing back and relaxing armrests, shaped to embrace your body."
+  },
+  {
+    "Brand": "SKANSNAS",
+    "name": "Table and 4 chairs, brown beech/Viarp beige/brown, 45 1/4/66 7/8",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Tables%26Chairs/1179.avif",
+    "ListPrice": 1299.99,
+    "FinalPrice": 1179.99,
+    "color": "beige",
+    "stockQuantity": 10,
+    "description": "4-seat dining set with modern flair includes brown-stained wooden table that extends to seat 6, and cantilever chairs with comfy, flexy feel. Removeable/washable cover lets you relax and enjoy the meal."
+  },
+  {
+    "Brand": "SKANSNAS",
+    "name": "Table and 4 chairs, brown beech/black beech, 45 1/4/66 7/8",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Tables%26Chairs/1199.avif",
+    "ListPrice": 1299.99,
+    "FinalPrice": 1199.99,
+    "color": "black",
+    "stockQuantity": 10,
+    "description": "A statement piece for your dining area with fine details like solid wood edges, breadboard ends with cross-grain pattern and smooth, rounded corners."
+  },
+  {
+    "Brand": "HAGERNAS",
+    "name": "Table and 4 chairs, antique stain pine",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Tables%26Chairs/table-and-4-chairs-pine.avif",
+    "ListPrice": 299.99,
+    "FinalPrice": 199.99,
+    "color": "pine",
+    "stockQuantity": 10,
+    "description": "This sturdy dining set with a table and four chairs is perfect for your breakfast nook or smaller dining area. Solid pine is a natural material that ages beautifully and acquires its own unique character over time."
+  }
+]

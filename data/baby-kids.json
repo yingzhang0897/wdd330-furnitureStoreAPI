@@ -1,0 +1,72 @@
+[
+  {
+    "Brand": "ANTILOP",
+    "name": "High chair with tray,white",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/19.00.avif",
+    "ListPrice": 49.99,
+    "FinalPrice": 19,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "ANTILOP high chair is easy to take apart and bring along so your child sits safely whether you are at home, at your friend’s place or at a restaurant. Enjoy your meal!"
+  },
+  {
+    "Brand": "SNIGLAR",
+    "name": "Crib, beech, 27 1/2x52 ",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/119.avif",
+    "ListPrice": 149.99,
+    "FinalPrice": 119,
+    "color": "beech",
+    "stockQuantity": 10,
+    "description": "Your baby sleeps safely and comfortably in this crib. Made from solid beech – a durable and renewable natural material that is both good for your wallet and the planet."
+  },
+  {
+    "Brand": "KRUMMELUR",
+    "name": "Foam mattress for crib, 27 1/2x52 ",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/79.avif",
+    "ListPrice": 149.99,
+    "FinalPrice": 79,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "Our crib mattresses are made from safe, sustainable materials. All are free from harmful chemicals and tested according to strict safety requirements. Your child will sleep safely – and so will you."
+  },
+  {
+    "Brand": "SUNDVIK",
+    "name": "Wardrobe, white, 31 1/2x19 5/8x67 3/8 ",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/349.avif",
+    "ListPrice": 449.99,
+    "FinalPrice": 349,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "The style is timeless, the materials are durable and the details are made with care. The wardrobe is also deep enough for large hangers, so it can follow your child from the first onesie into adult fashions."
+  },
+  {
+    "Brand": "LATT",
+    "name": "Children's table and 2 chairs, white/pine",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/49.99.avif",
+    "ListPrice": 59.99,
+    "FinalPrice": 49.99,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "With this table and chairs you can easily create a durable arts and crafts corner for your child. The frames are made of solid pine and have a white foiled surface on top that is easy to wipe off."
+  },
+  {
+    "Brand": "LATT",
+    "name": "Children's table and 2 chairs, white/pine",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/49.99.avif",
+    "ListPrice": 59.99,
+    "FinalPrice": 49.99,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "With this table and chairs you can easily create a durable arts and crafts corner for your child. The frames are made of solid pine and have a white foiled surface on top that is easy to wipe off."
+  },
+  {
+    "Brand": "TROFAST",
+    "name": "Storage combination with boxes, white/white, 39x17 3/8x22 ",
+    "imageUrl": "https://yingzhang0897.github.io/furniture-images/Baby%26Kids/85.avif",
+    "ListPrice": 99,
+    "FinalPrice": 85,
+    "color": "white",
+    "stockQuantity": 10,
+    "description": "Children need good and spacious storage for their things. The TROFAST series has wooden frames, mesh boxes and plastic boxes and trays (min. 50% recycled). Easy to pull out, carry and put back in again."
+  }
+]
