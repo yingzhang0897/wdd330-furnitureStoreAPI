@@ -1,9 +1,13 @@
+import cors from "cors";
+
 const express = require("express");
 const app = express();
 const productRoutes = require("./routes/products"); 
 
+app.use(cors());
 app.use(express.json());
 app.use("/api", productRoutes); 
+
 
 
 const PORT = process.env.PORT || 3000;
