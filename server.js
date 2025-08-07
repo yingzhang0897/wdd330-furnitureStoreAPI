@@ -1,6 +1,6 @@
+import express from "express";
 import cors from "cors";
 
-const express = require("express");
 const app = express();
 const productRoutes = require("./routes/products"); 
 
