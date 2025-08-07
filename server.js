@@ -1,5 +1,5 @@
-import express from "express";
-import cors from "cors";
+const express = require("express");
+const cors = require("cors");
 
 const app = express();
 const productRoutes = require("./routes/products"); 
@@ -20,7 +20,7 @@ app.use(express.json());
 
 app.post("/get-shipping-rate", async (req, res) => {
   const { to_zip, weight, length, width, height } = req.body;
-  const from_zip = "94103"; // your warehouse ZIP
+  const from_zip = "94103";
 
   try {
     const response = await fetch("https://api.easypost.com/v2/rates", {
