@@ -17,7 +17,7 @@ function getProducts() {
 
   return [...sofas, ...beds, ...tables, ...kids];
 }
-
+//get by category
 router.get("/products/category/:category", (req, res) => {
   const category = req.params.category;
   const fileMap = {
@@ -40,6 +40,42 @@ router.get("/products/category/:category", (req, res) => {
     res.status(500).json({ error: "Server error" });
   }
 });
+//get by name
+router.get("/products/category/:category/product", (req, res) => {
+  const category = req.params.category;
+  const productName = req.query.name; 
+
+  if (!productName) {
+    return res.status(400).json({ error: "Product name is required" });
+  }
+
+  const fileMap = {
+    sofas: "sofas.json",
+    beds: "beds-mattresses.json",
+    tables: "tables-chairs.json",
+    kids: "baby-kids.json"
+  };
+
+  const filename = fileMap[category];
+  if (!filename) {
+    return res.status(404).json({ error: "Category not found" });
+  }
+
+  try {
+    const products = readJsonFile(filename);
+    const product = products.find(p => p.name === productName);
+
+    if (!product) {
+      return res.status(404).json({ error: "Product not found" });
+    }
+
+    res.json(product);
+  } catch (err) {
+    console.error("Failed to load product data:", err);
+    res.status(500).json({ error: "Server error" });
+  }
+});
+
 
 
 module.exports = router;
