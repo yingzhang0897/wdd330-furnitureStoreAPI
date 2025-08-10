@@ -1,4 +1,3 @@
-// routes/shipping-default.js (CommonJS)
 const express = require("express");
 const router = express.Router();
 
